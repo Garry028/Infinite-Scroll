@@ -7,7 +7,7 @@ This is a simple React application demonstrating how to implement infinite scrol
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-infinite-scroll-repo.git
+   git clone https://github.com/Garry028/Infinite-Scroll.git
 
    ```
 
