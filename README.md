@@ -1,6 +1,6 @@
 # React Infinite Scroll with Vite
 
-This is a simple React application demonstrating how to implement infinite scroll using Vite as the build tool.
+This is a simple React application demonstrating how to implement infinite scroll using React.js
 
 ## Getting Started
 
